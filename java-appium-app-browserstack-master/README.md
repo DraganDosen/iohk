@@ -1,0 +1,2 @@
+| [Using Java 7 client with MJSONWP protocol](./java_7) | [Using Java 8 client with w3c protocol](./java_8) |
+|------------------------------------------------------ | ------------------------------------------------- |
